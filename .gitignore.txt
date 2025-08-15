@@ -1,4 +1,3 @@
-# Unity generated
 # ===== Unity generated =====
 [Ll]ibrary/
 [Tt]emp/
